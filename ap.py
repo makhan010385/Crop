@@ -293,7 +293,7 @@ if selected=='inf':
         
         """
         st.markdown(lin_butt,unsafe_allow_html=True)
-        st.link_button('About-Me🌿','https://www.linkedin.com/in/muruga-perumal-iyadurai-7693592a7/')
+        st.link_button('About-Me🌿','https://www.linkedin.com/in/makhan-kumbhkar-44b5361a/')
         def get(path:str):
             with open(path,'r') as p:
                 return json.load(p)
